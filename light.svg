@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-label="Ravi Shanker Pandey, Artificial Intelligence and Machine Learning Computer Science student">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#F8FAFC"/><stop offset="55%" stop-color="#EEF6FF"/><stop offset="100%" stop-color="#F8FAFC"/>
+ </linearGradient>
+ <linearGradient id="accent" x1="0" x2="1">
+  <stop offset="0%" stop-color="#6366F1"/><stop offset="50%" stop-color="#0891B2"/><stop offset="100%" stop-color="#059669"/>
+ </linearGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#CBD5E1" stroke-opacity=".15"/></pattern>
+ <style>
+  .m{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace}
+  .tiny{font:11px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;letter-spacing:1.2px}
+  .label{font:10px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;letter-spacing:2px;fill:#475569}
+  .name{font:32px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;font-weight:800;fill:#0F172A}
+  .role{font:16px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;font-weight:700;fill:#0891B2}
+  .value{font:13px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;font-weight:600;fill:#0F172A}
+  .ascii{font:11px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;fill:#0891B2}
+  .pill{font:10px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;fill:#0F172A}
+ </style>
+</defs>
+<rect x="8" y="8" width="1164" height="594" rx="24" fill="url(#bg)" stroke="#CBD5E1"/>
+<rect x="8" y="8" width="1164" height="594" rx="24" fill="url(#grid)"/>
+<rect x="8" y="8" width="1164" height="42" rx="24" fill="#FFFFFF" fill-opacity=".8"/>
+<circle cx="34" cy="29" r="5" fill="#EF4444"/><circle cx="52" cy="29" r="5" fill="#F59E0B"/><circle cx="70" cy="29" r="5" fill="#059669"/>
+<text x="94" y="33" class="tiny" fill="#475569">ravi@ai-ml:~</text><text x="1120" y="33" text-anchor="end" class="tiny" fill="#059669">[ ONLINE ]</text>
+
+<rect x="28" y="70" width="435" height="510" rx="20" fill="#FFFFFF" fill-opacity=".55" stroke="#CBD5E1"/>
+<text x="54" y="103" class="label">VISUAL.MAP</text><line x1="54" y1="114" x2="437" y2="114" stroke="#CBD5E1"/>
+<text x="250" y="190" text-anchor="middle" class="ascii" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.70s" dur=".3s" fill="freeze"/>       .:+*#%%%%#*+:.       </text><text x="250" y="209" text-anchor="middle" class="ascii" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.75s" dur=".3s" fill="freeze"/>     .+%@@@@@@@@@@@@%+.     </text><text x="250" y="228" text-anchor="middle" class="ascii" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.80s" dur=".3s" fill="freeze"/>    *@@@%*+:.  .:+*%@@@*    </text><text x="250" y="247" text-anchor="middle" class="ascii" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.85s" dur=".3s" fill="freeze"/>   %@@@+.            .+@@@% </text><text x="250" y="266" text-anchor="middle" class="ascii" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.90s" dur=".3s" fill="freeze"/>  @@@@.   .:+****+:.   .@@@@</text><text x="250" y="285" text-anchor="middle" class="ascii" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.95s" dur=".3s" fill="freeze"/>  @@@%  .%@@@@@@@@@@%.  %@@@</text><text x="250" y="304" text-anchor="middle" class="ascii" opacity="0"><animate attributeName="opacity" values="0;1" begin="1.00s" dur=".3s" fill="freeze"/>  @@@%  %@@@%+  +%@@@%  %@@@</text><text x="250" y="323" text-anchor="middle" class="ascii" opacity="0"><animate attributeName="opacity" values="0;1" begin="1.05s" dur=".3s" fill="freeze"/>  @@@%  @@@@.    .@@@@  %@@@</text><text x="250" y="342" text-anchor="middle" class="ascii" opacity="0"><animate attributeName="opacity" values="0;1" begin="1.10s" dur=".3s" fill="freeze"/>  @@@%  %@@@%+  +%@@@%  %@@@</text><text x="250" y="361" text-anchor="middle" class="ascii" opacity="0"><animate attributeName="opacity" values="0;1" begin="1.15s" dur=".3s" fill="freeze"/>  @@@@.  +%@@@@@@@@%+.  .@@@@</text><text x="250" y="380" text-anchor="middle" class="ascii" opacity="0"><animate attributeName="opacity" values="0;1" begin="1.20s" dur=".3s" fill="freeze"/>   %@@@+.   .+****+.   .+@@@%</text><text x="250" y="399" text-anchor="middle" class="ascii" opacity="0"><animate attributeName="opacity" values="0;1" begin="1.25s" dur=".3s" fill="freeze"/>    *@@@%*+:.    .:+*%@@@*</text><text x="250" y="418" text-anchor="middle" class="ascii" opacity="0"><animate attributeName="opacity" values="0;1" begin="1.30s" dur=".3s" fill="freeze"/>     .+%@@@@@@@@@@@@@@@@%+.</text><text x="250" y="437" text-anchor="middle" class="ascii" opacity="0"><animate attributeName="opacity" values="0;1" begin="1.35s" dur=".3s" fill="freeze"/>       .:+*#%%%%%%#*+:.</text>
+<line x1="90" y1="472" x2="410" y2="472" stroke="#CBD5E1"/>
+<text x="250" y="500" text-anchor="middle" class="role">AI / ML · COMPUTER SCIENCE</text>
+<text x="250" y="526" text-anchor="middle" class="tiny" fill="#475569">~/profile $ solve --build</text>
+<text x="250" y="552" text-anchor="middle" class="tiny" fill="#059669">● learning systems</text>
+
+<rect x="485" y="70" width="667" height="510" rx="20" fill="#FFFFFF" fill-opacity=".62" stroke="#CBD5E1"/>
+<text x="515" y="103" class="label">SYSTEM.INFO</text><text x="1120" y="103" text-anchor="end" class="tiny" fill="#059669">profile.sh</text>
+<line x1="515" y1="114" x2="1122" y2="114" stroke="#CBD5E1"/>
+<text x="515" y="158" class="name">README.md</text>
+<text x="515" y="185" class="role">Artificial Intelligence &amp; Machine Learning</text>
+
+<text x="515" y="220" class="label">EDUCATION</text><text x="625" y="220" class="value">B.Tech CSE (AI &amp; ML) · CGPA 8.90/10</text>
+<text x="515" y="247" class="label">UNIVERSITY</text><text x="625" y="247" class="value">Galgotias University · Expected July 2028</text>
+<text x="515" y="274" class="label">FOCUS</text><text x="625" y="274" class="value">Problem Solving · Software Development</text>
+<line x1="515" y1="292" x2="1122" y2="292" stroke="#CBD5E1"/>
+
+<text x="515" y="312" class="label">SELECTED.PROJECTS</text>
+<text x="525" y="340" class="value">01  Student Management System</text>
+<text x="665" y="340" class="tiny" fill="#475569">Java · SQL</text>
+<text x="525" y="372" class="value">02  Job Application Tracker</text>
+<text x="665" y="372" class="tiny" fill="#475569">Java · SQL · HTML · CSS</text>
+<text x="525" y="404" class="tiny" fill="#475569">Application status · records · interview tracking</text>
+
+<line x1="515" y1="426" x2="1122" y2="426" stroke="#CBD5E1"/>
+<text x="515" y="445" class="label">CORE.STACK</text>
+<g transform="translate(620,468)"><rect width="54" height="24" rx="12" fill="#EEF6FF" stroke="#CBD5E1"/><circle cx="11" cy="12" r="3" fill="#059669"/><text x="20" y="16" class="pill">C</text></g><g transform="translate(681,468)"><rect width="60" height="24" rx="12" fill="#EEF6FF" stroke="#CBD5E1"/><circle cx="11" cy="12" r="3" fill="#059669"/><text x="20" y="16" class="pill">Java</text></g><g transform="translate(748,468)"><rect width="76" height="24" rx="12" fill="#EEF6FF" stroke="#CBD5E1"/><circle cx="11" cy="12" r="3" fill="#059669"/><text x="20" y="16" class="pill">Python</text></g><g transform="translate(831,468)"><rect width="54" height="24" rx="12" fill="#EEF6FF" stroke="#CBD5E1"/><circle cx="11" cy="12" r="3" fill="#059669"/><text x="20" y="16" class="pill">SQL</text></g><g transform="translate(892,468)"><rect width="60" height="24" rx="12" fill="#EEF6FF" stroke="#CBD5E1"/><circle cx="11" cy="12" r="3" fill="#059669"/><text x="20" y="16" class="pill">HTML</text></g><g transform="translate(959,468)"><rect width="54" height="24" rx="12" fill="#EEF6FF" stroke="#CBD5E1"/><circle cx="11" cy="12" r="3" fill="#059669"/><text x="20" y="16" class="pill">CSS</text></g><g transform="translate(1020,468)"><rect width="54" height="24" rx="12" fill="#EEF6FF" stroke="#CBD5E1"/><circle cx="11" cy="12" r="3" fill="#059669"/><text x="20" y="16" class="pill">Git</text></g><g transform="translate(620,499)"><rect width="76" height="24" rx="12" fill="#EEF6FF" stroke="#CBD5E1"/><circle cx="11" cy="12" r="3" fill="#059669"/><text x="20" y="16" class="pill">GitHub</text></g><g transform="translate(703,499)"><rect width="54" height="24" rx="12" fill="#EEF6FF" stroke="#CBD5E1"/><circle cx="11" cy="12" r="3" fill="#059669"/><text x="20" y="16" class="pill">DSA</text></g><g transform="translate(764,499)"><rect width="54" height="24" rx="12" fill="#EEF6FF" stroke="#CBD5E1"/><circle cx="11" cy="12" r="3" fill="#059669"/><text x="20" y="16" class="pill">OOP</text></g><g transform="translate(825,499)"><rect width="60" height="24" rx="12" fill="#EEF6FF" stroke="#CBD5E1"/><circle cx="11" cy="12" r="3" fill="#059669"/><text x="20" y="16" class="pill">DBMS</text></g>
+<text x="515" y="558" class="tiny" fill="#475569">CERTS</text>
+<text x="565" y="558" class="tiny" fill="#0891B2">Oracle · HackerRank</text>
+<text x="780" y="558" class="tiny" fill="#475569">PROFILES</text>
+<a href="https://github.com/Ravi82200" aria-label="GitHub"><text x="855" y="558" class="tiny" fill="#0891B2">GitHub</text></a>
+<a href="https://www.linkedin.com/in/ravi-pandey-aiml/" aria-label="LinkedIn"><text x="910" y="558" class="tiny" fill="#0891B2">LinkedIn</text></a>
+<a href="https://leetcode.com/u/Ravi_Pandey16/" aria-label="LeetCode"><text x="975" y="558" class="tiny" fill="#0891B2">LeetCode</text></a>
+<a href="https://codolio.com/profile/Ravi%20Pandey" aria-label="Codolio"><text x="1055" y="558" class="tiny" fill="#0891B2">Codolio</text></a>
+<rect x="28" y="70" width="1124" height="2" fill="#0891B2" opacity=".07"><animate attributeName="y" values="70;580;70" dur="10s" repeatCount="indefinite"/></rect>
+</svg>
